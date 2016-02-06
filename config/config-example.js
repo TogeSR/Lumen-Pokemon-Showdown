@@ -335,6 +335,24 @@ exports.grouplist = [
 		name: "Destacado",
 		inherit: ' ',
 		broadcast: true
+		
+	
+		symbol: '♛',
+		id: "king",
+		name: "King",
+		inherit '&',
+		warn: true,
+		mute: true,
+		ban: true,
+		kick: true,
+		modchat: true,
+		announce: true,
+		broadcast: true,
+		clearall: true,
+		forcewin: true,
+		rangeban: true,
+		globalonly: true,
+		lock: true,
 	},
 	{
 		symbol: ' ',
