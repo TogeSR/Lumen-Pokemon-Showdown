@@ -359,6 +359,16 @@ exports.grouplist = [
 		inherit: ' ',
 		alts: 's',
 		broadcast: true
+		
+		symbol: '✏',
+		id: 'diseñandor',
+		name: 'Diseñador',
+		inherit: '+',
+		alts: 's',
+		broadcast: true,
+		warn: true,
+		mute: true,
+		
 	},
 	{
 		symbol: ' ',
