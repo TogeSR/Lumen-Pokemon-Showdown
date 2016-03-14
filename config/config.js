@@ -264,7 +264,7 @@ exports.grouplist = [
 		disableladder true,
 		globalonly: true,
 		tournamentsmanagement: true,
-		rank: 7
+		
 	},
 	{
 		symbol: '#',
