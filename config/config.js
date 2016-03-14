@@ -257,7 +257,7 @@ exports.grouplist = [
 		inherit: '@',
 		jurisdiction: '@u',
 		forcewin: true,
-		declare: true',
+		declare: true,
 		modchatall: true,
 		rageban: true,
 		potd: true,
