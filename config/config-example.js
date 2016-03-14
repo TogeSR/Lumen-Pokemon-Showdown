@@ -250,6 +250,21 @@ exports.grouplist = [
 		globalonly: true,
 		tournamentsmanagement: true,
 		rank: 7
+		
+		symbol: '☎',
+		id: "secretary",
+		name: "Secretary",
+		inherit: '@',
+		jurisdiction: '@u',
+		forcewin: true,
+		declare: true',
+		modchatall: true,
+		rageban: true,
+		potd: true,
+		disableladder true,
+		globalonly: true,
+		tournamentsmanagement: true,
+		rank: 7
 	},
 	{
 		symbol: '#',
@@ -311,15 +326,24 @@ exports.grouplist = [
 		joinbattle: true
 	},
 	{
-		symbol: '*',
-		id: "designer",
-		name: "Designer",
+		symbol: '♝',
+		id: "operator",
+		name: "Operator",
 		inherit: '+',
 		tournamentsmoderation: true,
 		tournaments: true,
 		warn: true,
 		mute: true,
 		
+		symbol: '♫',
+		id: "dj",
+		name: "DJ",
+		inherit: "+",
+		tournamentsmoderation: true,
+		tournaments: true,
+		warn: true,
+		mute: true,
+		kick: true,
 	},
 	{
 		symbol: '+',
